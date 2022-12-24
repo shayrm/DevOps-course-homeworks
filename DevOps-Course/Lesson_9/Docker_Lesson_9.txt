@@ -1,0 +1,4 @@
+
+
+BCD - Build, Create Deploy.
+Docker related to "Create" in the CI/CD part.
